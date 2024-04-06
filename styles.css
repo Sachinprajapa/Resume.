@@ -1,0 +1,98 @@
+#header-contanner {
+    background-image:url(./assets/download.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:350px;
+    width:1300px;
+    background-position: center;
+}
+#navigation-bar ul li{
+    display:inline;
+    color: white;
+    padding-left: 40px;
+    margin-left: 5px;
+   
+    
+ 
+    
+
+    font-family: sans-serif;
+}
+#navigation-bar ul li a{
+    text-decoration:none ;
+    color: white;
+   
+}
+#header-contanner div h2{
+    color:white;
+    margin-left: 560px;
+    margin-top: 52px;
+    font-size: 34px;
+}
+
+
+ img{
+    margin-left: 550px;
+    width: fit-content;
+    margin-top:-90px ;
+    background-size:45px;
+    border-radius:50vh ;
+    
+    border:2px solid rgb(153, 93, 93);
+    
+}
+#about-as-info  p{
+    font-size: 30px;
+    text-align: justify;
+    line-height:40px;
+    padding:0px 50px;
+}
+#about-p1 img{
+    background-color: aliceblue;
+    margin-top: 40px;
+   margin: 15px;
+   border-radius: 4px;
+   margin-left: 500px;
+   width: 40px;
+   height: 40px;
+}
+#about-as img{
+    background-color: aliceblue;
+    width: 80px;
+    border-radius: 4px;
+    margin: 15px;
+    width: 40px;
+   height: 40px;
+}
+#about-p img{
+    background-color: aliceblue;
+    width: 80px;
+    border-radius: 4px;
+    margin: 15px;
+    width: 40px;
+    height: 40px;
+}
+#about-h img{
+    background-color: aliceblue;
+    width: 80px;
+    border-radius: 4px;
+  margin-left: -230px;
+  margin: 15px;
+  width: 40px;
+  height: 40px;
+}
+#work-Experience {
+    background-color: rgb(115, 103, 218);
+}
+#work-Experience div h2{
+    text-align: center;
+    font-size: 44px;
+    border-radius: 50px;
+    background-color: green;
+}
+#work-Experience div p{
+    font-size: 30px;
+    text-align: justify;
+    line-height:40px;
+    padding:0px 50px;
+}

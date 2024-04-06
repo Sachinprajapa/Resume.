@@ -1,0 +1,15 @@
+<footer id="work-Experience">
+        <section>
+            <div>
+                <h2>Work Experience</h2>
+                <ul>               
+                <p>Can I tell you a little secret?
+                    BCA students don’t need laptops.
+                    
+                    If you do need one, you would only be needing it for your final semester project work. The five semesters before your project semester are filled with so many core computing concepts and languages. You would probably get 2 to 3 hours of time at your lab usually. I insist you to make use of the lab time and practice what’s necessary. Buying yourself a laptop isn’t a bad choice, but I’m sure it will make you lazy.
+                    
+                    And about the specifications, go with a laptop which has a minimal graphic support of upto 2 GB. Visual studio could use better graphics. 4 GB of RAM should be enough and prefer i5 processors and above.</p>
+                </ul>
+                </div>
+        </section>
+    </footer>
